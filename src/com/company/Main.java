@@ -7,6 +7,7 @@ public class Main {
         int a = 0;
         boolean b = false;
         for (double names : num) {
+
             if (names > 0) {
                 b = true;
 
